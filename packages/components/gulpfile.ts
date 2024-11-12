@@ -11,11 +11,9 @@ import less from 'gulp-less';
 import minifyCss from 'gulp-minify-css';
 import rename from 'gulp-rename';
 import configVue from './packages/vue/tsconfig.json';
-import configSVG from './packages/svg/tsconfig.json';
 
 const TS_CONFIG_MAP = {
     vue: configVue,
-    svg: configSVG,
 };
 
 const BABEL_CONFIG_MAP = {
@@ -68,7 +66,7 @@ function resolve(...arg: string[]): string {
     return path.resolve(process.cwd(), ...arg);
 }
 
-function createBuildTask(name: 'vue' | 'svg'): string {
+function createBuildTask(name: 'vue'): string {
     const cwd = resolve('packages/', name);
 
     gulp.task('build-script-' + name, () => {
@@ -108,23 +106,21 @@ function createBuildTask(name: 'vue' | 'svg'): string {
 
     const tasks = ['build-script-' + name, 'build-copy-icons-json-' + name];
 
-    if (name !== 'svg') {
-        gulp.task('build-css-' + name, () => {
-            return gulp
-                .src('src/runtime/index.less', { cwd })
-                .pipe(less())
-                .pipe(minifyCss())
-                .pipe(gulp.dest(cwd + '/styles'));
-        });
+    gulp.task('build-css-' + name, () => {
+        return gulp
+            .src('src/runtime/index.less', { cwd })
+            .pipe(less())
+            .pipe(minifyCss())
+            .pipe(gulp.dest(cwd + '/styles'));
+    });
 
-        gulp.task('build-less-' + name, () => {
-            return gulp
-                .src('src/runtime/index.less', { cwd })
-                .pipe(gulp.dest(cwd + '/styles'));
-        });
+    gulp.task('build-less-' + name, () => {
+        return gulp
+            .src('src/runtime/index.less', { cwd })
+            .pipe(gulp.dest(cwd + '/styles'));
+    });
 
-        tasks.push('build-css-' + name, 'build-less-' + name);
-    }
+    tasks.push('build-css-' + name, 'build-less-' + name);
 
     gulp.task('build-' + name, gulp.parallel(tasks));
 
