@@ -1,6 +1,6 @@
 {
     "name": "@icon-monorepo/vue",
-    "version": "1.4.2",
+    "version": "1.0.1",
     "description": "Vue Icons for IconPark",
     "main": "lib/index.js",
     "module": "es/index.js",
