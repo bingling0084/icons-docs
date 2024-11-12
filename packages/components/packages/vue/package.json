@@ -17,13 +17,9 @@
         "components",
         "design"
     ],
-    "homepage": "http://iconpark.bytedance.com/",
-    "bugs": {
-        "url": "https://github.com/bytedance/IconPark/issues"
-    },
     "repository": {
         "type": "git",
-        "url": "https://github.com/bytedance/IconPark"
+        "url": "https://github.com/bingling0084/icons-docs"
     },
     "license": "Apache-2.0",
     "engines": {
