@@ -1,0 +1,2 @@
+import "D:\\repos\\icon-monporepo\\node_modules\\.pnpm\\@vuepress+core@1.9.10_@vue+compiler-sfc@3.5.12_handlebars@4.7.8_hogan.js@3.0.2_lodash@4.17.21\\node_modules\\@vuepress\\core\\lib\\node\\internal-plugins\\style\\client.js"
+export default {}

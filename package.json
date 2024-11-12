@@ -1,0 +1,16 @@
+{
+  "name": "icon-monporepo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pkg:scripts": "cd packages/components && pnpm scripts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@icon-monorepo/components": "workspace:^",
+    "@icon-monorepo/examples": "workspace:^"
+  }
+}
