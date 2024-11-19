@@ -24,7 +24,7 @@ export default IconWrapper(
                     width="40"
                     height="40"
                     patternUnits="userSpaceOnUse"
-                    id={props.id + '62b771f5'}
+                    id={props.id + '8e4df64f'}
                 >
                     <image
                         x="0"
@@ -43,7 +43,7 @@ export default IconWrapper(
                     width="40"
                     height="40"
                     rx="0"
-                    fill={'url(#' + props.id + '62b771f5' + ')'}
+                    fill={'url(#' + props.id + '8e4df64f' + ')'}
                     fill-opacity="1"
                 />
             </g>

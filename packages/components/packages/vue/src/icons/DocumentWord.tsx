@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.5"
                     y2="1.1709567308425903"
-                    id={props.id + '42a023d2'}
+                    id={props.id + 'be0863bc'}
                 >
                     <stop
                         offset="0%"
@@ -37,7 +37,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + '29232ce5'}
+                    id={props.id + '188311ee'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -104,7 +104,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.4627915611991675"
                     y2="1.0127804757139727"
-                    id={props.id + '20cee576'}
+                    id={props.id + '9835911a'}
                 >
                     <stop
                         offset="0%"
@@ -122,7 +122,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.13442989049836723"
                     y2="1.0279841031909942"
-                    id={props.id + '610269ec'}
+                    id={props.id + '29ce4750'}
                 >
                     <stop
                         offset="2.142857201397419%"
@@ -141,7 +141,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + '4bf78495'}
+                    id={props.id + '3f23ad1b'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="-0.7272727272727273"
@@ -182,7 +182,7 @@ export default IconWrapper(
                     />
                 </filter>
                 <filter
-                    id={props.id + '3bdee8e2'}
+                    id={props.id + 'b07bba5b'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -249,7 +249,7 @@ export default IconWrapper(
                     cy="0"
                     r="1"
                     gradientUnits="userSpaceOnUse"
-                    id={props.id + 'e7c57c9a'}
+                    id={props.id + 'ee817729'}
                     gradientTransform="translate(15.040527325123549 9.5) rotate(132.6221498753386) scale(4.7309511099213974 4.7309511099213974)"
                 >
                     <stop
@@ -264,7 +264,7 @@ export default IconWrapper(
                     />
                 </radialGradient>
                 <filter
-                    id={props.id + '53cdcd9a'}
+                    id={props.id + 'bb162b82'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="-0.4444444444444444"
@@ -323,27 +323,27 @@ export default IconWrapper(
                     >
                         <path
                             d="M7.61767578125,3.9123773046875L7.61767578125,17.9120373046875C7.61767578125,19.0220373046875,8.52171878125,19.9197373046875,9.63176578125,19.9119373046875L21.014575781250002,19.8317373046875C22.11357578125,19.8240373046875,23.00047578125,18.9308373046875,23.00047578125,17.8317373046875L23.00007578125,3.8322973046875C22.99997578125,2.7222503046875,22.09597578125,1.8245933346875,20.985975781249998,1.8323979046875L9.60361578125,1.9124283046875C8.50455878125,1.9201563046875,7.61767578125,2.8132973046875,7.61767578125,3.9123773046875Z"
-                            fill={'url(#' + props.id + '42a023d2' + ')'}
+                            fill={'url(#' + props.id + 'be0863bc' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + '29232ce5' + ')'}
+                        filter={'url(#' + props.id + '188311ee' + ')'}
                     >
                         <path
                             d="M3,6L3,20C3,21.1046,3.895431,22,5,22L18,22C19.1046,22,20,21.1046,20,20L20,13L20,9.5L14.5,4L11.5,4L5,4C3.895431,4,3,4.895431,3,6Z"
-                            fill={'url(#' + props.id + '20cee576' + ')'}
+                            fill={'url(#' + props.id + '9835911a' + ')'}
                             fill-opacity="1"
                         />
                         <path
                             d="M3,6L3,20C3,21.1046,3.895431,22,5,22L18,22C19.1046,22,20,21.1046,20,20L20,9.5L14.5,4L5,4C3.895431,4,3,4.895431,3,6ZM14.2929,4.5L19.5,9.70711L19.5,20Q19.5,20.6213,19.0607,21.0607Q18.621299999999998,21.5,18,21.5L5,21.5Q4.37868,21.5,3.93934,21.0607Q3.5,20.6213,3.5,20L3.5,6Q3.5,5.37868,3.93934,4.93934Q4.37868,4.5,5,4.5L14.2929,4.5Z"
                             fill-rule="evenodd"
-                            fill={'url(#' + props.id + '610269ec' + ')'}
+                            fill={'url(#' + props.id + '29ce4750' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + '4bf78495' + ')'}
+                        filter={'url(#' + props.id + '3f23ad1b' + ')'}
                     >
                         <path
                             d="M14.5,7.5C14.5,8.604569999999999,15.395431,9.5,16.5,9.5L20,9.5L14.5,4L14.5,7.5Z"
@@ -352,17 +352,17 @@ export default IconWrapper(
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + '3bdee8e2' + ')'}
+                        filter={'url(#' + props.id + 'b07bba5b' + ')'}
                     >
                         <path
                             d="M14.5,7.5C14.5,8.604569999999999,15.395431,9.5,16.5,9.5L20,9.5L14.5,4L14.5,7.5Z"
-                            fill={'url(#' + props.id + 'e7c57c9a' + ')'}
+                            fill={'url(#' + props.id + 'ee817729' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                 </g>
                 <g
-                    filter={'url(#' + props.id + '53cdcd9a' + ')'}
+                    filter={'url(#' + props.id + 'bb162b82' + ')'}
                 >
                     <path
                         d="M15.625,10.1L14.405000000000001,10.1L13.425,14.969999999999999L12.365,10.1L10.735,10.1L9.725,14.969999999999999L8.685,10.1L7.375,10.1L9.075,17L10.265,17L11.515,11.89L12.775,17L13.975,17L15.625,10.1Z"

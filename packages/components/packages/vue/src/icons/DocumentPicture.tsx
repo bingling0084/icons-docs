@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.5"
                     y2="1"
-                    id={props.id + 'a4a4b67a'}
+                    id={props.id + 'dd196167'}
                 >
                     <stop
                         offset="0%"
@@ -37,7 +37,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + '447082c5'}
+                    id={props.id + '0ad918f4'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -104,7 +104,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.4627915611991675"
                     y2="1.0127804757139727"
-                    id={props.id + '3a8526ef'}
+                    id={props.id + 'cad81a97'}
                 >
                     <stop
                         offset="0%"
@@ -122,7 +122,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.13442989049836723"
                     y2="1.0279841031909942"
-                    id={props.id + '9f83ee9a'}
+                    id={props.id + 'e6df18d8'}
                 >
                     <stop
                         offset="2.142857201397419%"
@@ -141,7 +141,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + 'a47f2eee'}
+                    id={props.id + '5d4bd3a1'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="-0.5"
@@ -182,7 +182,7 @@ export default IconWrapper(
                     />
                 </filter>
                 <filter
-                    id={props.id + '309452d8'}
+                    id={props.id + '35302a75'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="-0.8"
@@ -223,7 +223,7 @@ export default IconWrapper(
                     />
                 </filter>
                 <filter
-                    id={props.id + '5eb17ce5'}
+                    id={props.id + 'e127ffcf'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="-0.7272727272727273"
@@ -264,7 +264,7 @@ export default IconWrapper(
                     />
                 </filter>
                 <filter
-                    id={props.id + 'd7321af7'}
+                    id={props.id + '82a06ccf'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -331,7 +331,7 @@ export default IconWrapper(
                     cy="0"
                     r="1"
                     gradientUnits="userSpaceOnUse"
-                    id={props.id + '54517c11'}
+                    id={props.id + '530ee2fb'}
                     gradientTransform="translate(15.427246116101742 8.929565519094467) rotate(134.06104717343305) scale(4.050611832430764 4.050611832430764)"
                 >
                     <stop
@@ -346,7 +346,7 @@ export default IconWrapper(
                     />
                 </radialGradient>
                 <filter
-                    id={props.id + 'ef02e0d6'}
+                    id={props.id + '693f25dc'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="-1.3333333333333333"
@@ -405,27 +405,27 @@ export default IconWrapper(
                     >
                         <path
                             d="M7.61767578125,3.9123773046875L7.61767578125,17.9120373046875C7.61767578125,19.0220373046875,8.52171878125,19.9197373046875,9.63176578125,19.9119373046875L21.01447578125,19.8317373046875C22.11357578125,19.8240373046875,23.00047578125,18.9308373046875,23.00047578125,17.8317373046875L23.00007578125,3.8322973046875C22.99997578125,2.7222503046875,22.09597578125,1.8245933346875,20.985975781249998,1.8323979046875L9.60361578125,1.9124283046875C8.50455878125,1.9201563046875,7.61767578125,2.8132973046875,7.61767578125,3.9123773046875Z"
-                            fill={'url(#' + props.id + 'a4a4b67a' + ')'}
+                            fill={'url(#' + props.id + 'dd196167' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + '447082c5' + ')'}
+                        filter={'url(#' + props.id + '0ad918f4' + ')'}
                     >
                         <path
                             d="M3,6L3,20C3,21.1046,3.895431,22,5,22L18,22C19.1046,22,20,21.1046,20,20L20,13L20,9.5L14.5,4L11.5,4L5,4C3.895431,4,3,4.895431,3,6Z"
-                            fill={'url(#' + props.id + '3a8526ef' + ')'}
+                            fill={'url(#' + props.id + 'cad81a97' + ')'}
                             fill-opacity="1"
                         />
                         <path
                             d="M3,6L3,20C3,21.1046,3.895431,22,5,22L18,22C19.1046,22,20,21.1046,20,20L20,9.5L14.5,4L5,4C3.895431,4,3,4.895431,3,6ZM14.2929,4.5L19.5,9.70711L19.5,20Q19.5,20.6213,19.0607,21.0607Q18.621299999999998,21.5,18,21.5L5,21.5Q4.37868,21.5,3.93934,21.0607Q3.5,20.6213,3.5,20L3.5,6Q3.5,5.37868,3.93934,4.93934Q4.37868,4.5,5,4.5L14.2929,4.5Z"
                             fill-rule="evenodd"
-                            fill={'url(#' + props.id + '9f83ee9a' + ')'}
+                            fill={'url(#' + props.id + 'e6df18d8' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + 'a47f2eee' + ')'}
+                        filter={'url(#' + props.id + '5d4bd3a1' + ')'}
                     >
                         <path
                             d="M9,17L17,17L13.832049999999999,12.24808C13.43623,11.654342,12.56377,11.654342,12.16795,12.24808L9,17Z"
@@ -434,7 +434,7 @@ export default IconWrapper(
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + '309452d8' + ')'}
+                        filter={'url(#' + props.id + '35302a75' + ')'}
                     >
                         <path
                             d="M6,17L11,17L9.347999999999999,14.3568C8.95633,13.730129,8.04367,13.730129,7.652,14.3568L6,17Z"
@@ -443,7 +443,7 @@ export default IconWrapper(
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + '5eb17ce5' + ')'}
+                        filter={'url(#' + props.id + 'e127ffcf' + ')'}
                     >
                         <path
                             d="M14.5,7.5C14.5,8.604569999999999,15.395431,9.5,16.5,9.5L20,9.5L14.5,4L14.5,7.5Z"
@@ -452,17 +452,17 @@ export default IconWrapper(
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + 'd7321af7' + ')'}
+                        filter={'url(#' + props.id + '82a06ccf' + ')'}
                     >
                         <path
                             d="M14.5,7.5C14.5,8.604569999999999,15.395431,9.5,16.5,9.5L20,9.5L14.5,4L14.5,7.5Z"
-                            fill={'url(#' + props.id + '54517c11' + ')'}
+                            fill={'url(#' + props.id + '530ee2fb' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                 </g>
                 <g
-                    filter={'url(#' + props.id + 'ef02e0d6' + ')'}
+                    filter={'url(#' + props.id + '693f25dc' + ')'}
                 >
                     <ellipse
                         cx="8.5"

@@ -19,7 +19,7 @@ export default IconWrapper(
         >
             <defs>
                 <mask
-                    id={props.id + 'f3fa3a2a'}
+                    id={props.id + '6f5fcf93'}
                     maskUnits="objectBoundingBox" style={{maskType: 'alpha'}}
                 >
                     <g>
@@ -33,7 +33,7 @@ export default IconWrapper(
                     </g>
                 </mask>
                 <mask
-                    id={props.id + '2229f5d5'}
+                    id={props.id + '0ca74089'}
                     maskUnits="objectBoundingBox" style={{maskType: 'alpha'}}
                 >
                     <g>
@@ -47,7 +47,7 @@ export default IconWrapper(
                     </g>
                 </mask>
                 <mask
-                    id={props.id + '55f077ad'}
+                    id={props.id + 'd7acdae5'}
                     maskUnits="objectBoundingBox" style={{maskType: 'alpha'}}
                 >
                     <g>
@@ -66,7 +66,7 @@ export default IconWrapper(
             <g style={{opacity: 0.9000000357627869}}>
                 <g>
                     <g
-                        mask={'url(#' + props.id + 'f3fa3a2a' + ')'}
+                        mask={'url(#' + props.id + '6f5fcf93' + ')'}
                     >
                         <g
                             transform="matrix(0.7071067690849304,0.7071067690849304,-0.7071067690849304,0.7071067690849304,5.695273920011829,-3.984470587552636)"
@@ -79,7 +79,7 @@ export default IconWrapper(
                         </g>
                     </g>
                     <g
-                        mask={'url(#' + props.id + '2229f5d5' + ')'}
+                        mask={'url(#' + props.id + '0ca74089' + ')'}
                     >
                         <g>
                             <path
@@ -90,7 +90,7 @@ export default IconWrapper(
                         </g>
                     </g>
                     <g
-                        mask={'url(#' + props.id + '55f077ad' + ')'}
+                        mask={'url(#' + props.id + 'd7acdae5' + ')'}
                     >
                         <g>
                             <path

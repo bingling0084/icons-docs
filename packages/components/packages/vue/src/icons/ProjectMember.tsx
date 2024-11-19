@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="-0.5060058832168579"
                     x2="-0.17673179645750633"
                     y2="0.6698366343972055"
-                    id={props.id + 'd323b801'}
+                    id={props.id + 'fdbc8753'}
                 >
                     <stop
                         offset="0%"
@@ -37,7 +37,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + '9f824400'}
+                    id={props.id + 'cf076015'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -100,12 +100,12 @@ export default IconWrapper(
                         <g>
                             <path
                                 d="M3,20.86614C3,21.492350000000002,3.507645,22,4.13386,22L19.8661,22C20.4924,22,21,21.492350000000002,21,20.86614C21,16.52179,17.4782,13,13.1339,13L10.86614,13C6.52179,13,3,16.52179,3,20.86614Z"
-                                fill={'url(#' + props.id + 'd323b801' + ')'}
+                                fill={'url(#' + props.id + 'fdbc8753' + ')'}
                                 fill-opacity="1"
                             />
                         </g>
                         <g
-                            filter={'url(#' + props.id + '9f824400' + ')'} style={{opacity: 0.9599999785423279}}
+                            filter={'url(#' + props.id + 'cf076015' + ')'} style={{opacity: 0.9599999785423279}}
                         >
                             <ellipse
                                 cx="12"

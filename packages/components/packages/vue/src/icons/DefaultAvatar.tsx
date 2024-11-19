@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="0.02545776031911373"
                     x2="0.21368568345270741"
                     y2="1.0000000482738727"
-                    id={props.id + 'e921bd62'}
+                    id={props.id + '83c16e0f'}
                 >
                     <stop
                         offset="0%"
@@ -37,7 +37,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <mask
-                    id={props.id + '96cbbd2d'}
+                    id={props.id + '47eae7d7'}
                     maskUnits="objectBoundingBox" style={{maskType: 'alpha'}}
                 >
                     <g>
@@ -52,7 +52,7 @@ export default IconWrapper(
                     </g>
                 </mask>
                 <clipPath
-                    id={props.id + '122b2363'}
+                    id={props.id + '2daf3fe3'}
                 >
                     <rect
                         x="6.5"
@@ -65,7 +65,7 @@ export default IconWrapper(
             </defs>
             <g>
                 <g
-                    mask={'url(#' + props.id + '96cbbd2d' + ')'}
+                    mask={'url(#' + props.id + '47eae7d7' + ')'}
                 >
                     <g>
                         <ellipse
@@ -73,7 +73,7 @@ export default IconWrapper(
                             cy="20.500001907348633"
                             rx="20"
                             ry="20.000001907348633"
-                            fill={'url(#' + props.id + 'e921bd62' + ')'}
+                            fill={'url(#' + props.id + '83c16e0f' + ')'}
                             fill-opacity="1"
                         />
                         <ellipse
@@ -91,7 +91,7 @@ export default IconWrapper(
                 </g>
                 <g>
                     <g
-                        clip-path={'url(#' + props.id + '122b2363' + ')'}
+                        clip-path={'url(#' + props.id + '2daf3fe3' + ')'}
                     >
                         <g>
                             <path

@@ -19,7 +19,7 @@ export default IconWrapper(
         >
             <defs>
                 <mask
-                    id={props.id + '8cd08a81'}
+                    id={props.id + '10ef2d43'}
                     maskUnits="objectBoundingBox" style={{maskType: 'alpha'}}
                 >
                     <g>
@@ -42,7 +42,7 @@ export default IconWrapper(
                     />
                 </g>
                 <g
-                    mask={'url(#' + props.id + '8cd08a81' + ')'}
+                    mask={'url(#' + props.id + '10ef2d43' + ')'}
                 >
                     <g>
                         <path

@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="1.1484732627868652"
                     x2="-0.0939416911381744"
                     y2="0.599670209138138"
-                    id={props.id + 'f82f71a3'}
+                    id={props.id + 'c4edfc55'}
                 >
                     <stop
                         offset="0%"
@@ -46,7 +46,7 @@ export default IconWrapper(
                     y1="1.1484732627868652"
                     x2="-0.017570015285474968"
                     y2="0.2762009286271422"
-                    id={props.id + '81ffe695'}
+                    id={props.id + 'c7212299'}
                 >
                     <stop
                         offset="0%"
@@ -65,7 +65,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + 'e2c9e126'}
+                    id={props.id + '607658b2'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -160,7 +160,7 @@ export default IconWrapper(
                     cy="0"
                     r="1"
                     gradientUnits="userSpaceOnUse"
-                    id={props.id + '8655cc59'}
+                    id={props.id + '3f5573ad'}
                     gradientTransform="translate(11.42013144493103 15.51394259929657) rotate(137.39278730831444) scale(15.339464317080644 21.655714329996204)"
                 >
                     <stop
@@ -184,7 +184,7 @@ export default IconWrapper(
                     y1="1"
                     x2="0.130939781665802"
                     y2="-0.19338415563106537"
-                    id={props.id + '8acd517a'}
+                    id={props.id + '933e3dbb'}
                 >
                     <stop
                         offset="2.142857201397419%"
@@ -220,7 +220,7 @@ export default IconWrapper(
                         <path
                             d="M13.98951,16.582123L20.7576,23.23647C21.3958,23.86395,20.9515,24.949550000000002,20.0565,24.949550000000002L6.85718,24.949550000000002C5.97447,24.949550000000002,5.52468,23.889319999999998,6.13812,23.2546L12.56937,16.600249C12.95551,16.200714,13.5933,16.192574,13.98951,16.582123"
                             fill-rule="evenodd"
-                            fill={'url(#' + props.id + 'f82f71a3' + ')'}
+                            fill={'url(#' + props.id + 'c4edfc55' + ')'}
                             fill-opacity="1"
                         />
                     </g>
@@ -231,12 +231,12 @@ export default IconWrapper(
                             width="18"
                             height="12"
                             rx="1"
-                            fill={'url(#' + props.id + '81ffe695' + ')'}
+                            fill={'url(#' + props.id + 'c7212299' + ')'}
                             fill-opacity="1"
                         />
                     </g>
                     <g
-                        filter={'url(#' + props.id + 'e2c9e126' + ')'}
+                        filter={'url(#' + props.id + '607658b2' + ')'}
                     >
                         <rect
                             x="1.5"
@@ -244,7 +244,7 @@ export default IconWrapper(
                             width="24"
                             height="17"
                             rx="3.5999999046325684"
-                            fill={'url(#' + props.id + '8655cc59' + ')'}
+                            fill={'url(#' + props.id + '3f5573ad' + ')'}
                             fill-opacity="1"
                         />
                         <rect
@@ -253,7 +253,7 @@ export default IconWrapper(
                             width="24"
                             height="17"
                             rx="3.5999999046325684"
-                            stroke={'url(#' + props.id + '8acd517a' + ')'}
+                            stroke={'url(#' + props.id + '933e3dbb' + ')'}
                             fill-opacity="0"
                             fill="none"
                             stroke-width={props.strokeWidth}

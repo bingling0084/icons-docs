@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="0.5"
                     x2="0.024097779765725136"
                     y2="0.5"
-                    id={props.id + '7104d7d2'}
+                    id={props.id + '7ec5efef'}
                 >
                     <stop
                         offset="0%"
@@ -57,7 +57,7 @@ export default IconWrapper(
                             width="34"
                             height="4"
                             rx="2"
-                            fill={'url(#' + props.id + '7104d7d2' + ')'}
+                            fill={'url(#' + props.id + '7ec5efef' + ')'}
                             fill-opacity="1"
                         />
                     </g>

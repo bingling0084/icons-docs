@@ -28,9 +28,6 @@ importers:
       '@opentiny/vue-anchor':
         specifier: '2'
         version: 2.19.0(vue@2.6.14)
-      '@opentiny/vue-base-select':
-        specifier: '2'
-        version: 2.19.0(vue@2.6.14)
       '@opentiny/vue-collapse':
         specifier: '2'
         version: 2.19.0(vue@2.6.14)
@@ -44,9 +41,6 @@ importers:
         specifier: '2'
         version: 2.19.0(vue@2.6.14)
       '@opentiny/vue-numeric':
-        specifier: '2'
-        version: 2.19.0(vue@2.6.14)
-      '@opentiny/vue-option':
         specifier: '2'
         version: 2.19.0(vue@2.6.14)
       '@opentiny/vue-radio-button':
@@ -1263,14 +1257,8 @@ packages:
   '@opentiny/vue-anchor@2.19.0':
     resolution: {integrity: sha512-oIREl2YC51yNEAQGCJIn2JLiedZWn9NqQdszKxnT6GJsq9Lp80Sf1L28mbIr7LI6asOqJX6/Fk1pRPC0wDLgjQ==}
 
-  '@opentiny/vue-base-select@2.19.0':
-    resolution: {integrity: sha512-CX6z4oUj/Lu72T4PRnZdfiVpBCOa+qFFdnSl7hf5c+8NSh7gQOlNZ5e9nZrlrGSmyKGcXbCbCr4Ju72tZWikgA==}
-
   '@opentiny/vue-button@2.19.0':
     resolution: {integrity: sha512-RYSB1frYYxwD/j+Q0rkTz9weBh4mx0carDHtKr08925K19wyBmPlP7Su9jmRvH2isXeBPPVmx1o7R9lJ5F2x2Q==}
-
-  '@opentiny/vue-checkbox@2.19.0':
-    resolution: {integrity: sha512-FsRubcgcuiGgMUjPfYOqWoZQDqnhdUH9/mdj7Os9f0u4rdAvYxSFBU3m5/8x3X1bKNamMV5qAaOTzxPRtbzAPA==}
 
   '@opentiny/vue-collapse-item@2.19.0':
     resolution: {integrity: sha512-I9DI79FnfibHGS1eN++mZk9HiXNHq6PAI1uQWupxcaH8lBlB1h2q8CLw33FPhE4MpGwlpKK82+kKuu7P5Bq4vw==}
@@ -1317,9 +1305,6 @@ packages:
   '@opentiny/vue-numeric@2.19.0':
     resolution: {integrity: sha512-+PGG9mJmL0gAQZxBsUgYc9vQZazxOol8O5K8wRrnx0Ab9QMLk5aBFsjBA3LZsJQp66zWTWbELg/mICaMOIz+3Q==}
 
-  '@opentiny/vue-option@2.19.0':
-    resolution: {integrity: sha512-a9biou1KhzptaMO3kW2T2wULEuV/Y9WAMwwkbyYF/BnNhpvirXhWjgZ8wJesIZp+uCHREYAi97bx9j9cNmYtPw==}
-
   '@opentiny/vue-popover@2.19.0':
     resolution: {integrity: sha512-6HNTOMU6PulA0rBu4Y0kt8xFKMlOJJ1u/UprkfKkZLBD1UUmse3HoC6L2YML5/j1n2kMsjmm3VkbyNt1edFv+w==}
 
@@ -1332,26 +1317,14 @@ packages:
   '@opentiny/vue-radio@2.19.0':
     resolution: {integrity: sha512-vm0XaRgvVPaXqXvVYPonGzNTkKUkZIJgpHo0Q+3sotPWWTsSFa3Ed3ZB80r+dLz5o9RNcTPXKCm7ONReJbPPWw==}
 
-  '@opentiny/vue-recycle-scroller@2.19.0':
-    resolution: {integrity: sha512-yWiqA8WC/p6OqXBUarVLVAJ+Cq9xq9ApgVR8o0qi0xsgTyKu2kROs0H5lHrC7HerpPrBtX+W/Wr+8Gf6rIcyDQ==}
-
   '@opentiny/vue-renderless@3.19.4':
     resolution: {integrity: sha512-bqyBTB21JbtjrWwx99pBHrk1rNpVFXIYO0fIRXQXS+Km9RQxDaRsFoCM6WSmDKg7PMMBZh02SAK2G50MD8ojHw==}
-
-  '@opentiny/vue-scrollbar@2.19.0':
-    resolution: {integrity: sha512-WPXaWRTyhsUk5T2Xy3gMMHw7NbUqymtA1ToRz3cNegRQ8hVHgpS9OsDDIKfDif3wyNM91WImkyRnpmmcP5hWhw==}
 
   '@opentiny/vue-search@2.19.0':
     resolution: {integrity: sha512-gP/LkOm3tyc+tXl1zyWCqCrraIQn8lOa17nKFXInwFmrbVH4NjU5033Sb+s9PQnD5D0JbiZ1CWYBtEosXm9iNw==}
 
-  '@opentiny/vue-select-dropdown@2.19.0':
-    resolution: {integrity: sha512-be73W6bniJLF0X9CdTWLmqlJggEpldbI6oxx1IkJwIKIBCwnjojIUjjlIG5AhI5H7g4OnpzI2wdKsmVZb6w+wA==}
-
   '@opentiny/vue-slider@2.19.0':
     resolution: {integrity: sha512-ZieE9/kfLbFRp2PdhsDJ9fInuVm28jWH4jYPle9X7kxNGCvHX5G4cCQ2S1HBr6PLGjMd4f+P/SYdxpdg9t13/A==}
-
-  '@opentiny/vue-switch@2.19.0':
-    resolution: {integrity: sha512-5pnggQ24heqOAnPdrAM9RlJRPVZsWn2kcfYQ+mxMNizKItd4GrrNXY/mDv3D5Yp0W+/I+CAEMD20cI8MRbiy3A==}
 
   '@opentiny/vue-tag@2.19.0':
     resolution: {integrity: sha512-aPGncAPhlShfX0DblszFAr++ZQ7t7UHuTsdJOpqhdHd5Mcxuji66L+WofUgofjkblIAQwJVbSIDlcPuRkjX77Q==}
@@ -1364,9 +1337,6 @@ packages:
 
   '@opentiny/vue-tooltip@2.19.0':
     resolution: {integrity: sha512-ifbAv+w8SIornR7bxBIJBRfFZg1eDIgXiDmyZnr3eZibFyYNxzIAiTj1fGf0S4AGFL++99m9LB7Zu1evwAMQvQ==}
-
-  '@opentiny/vue-tree@2.19.2':
-    resolution: {integrity: sha512-90xiKmg2BPSD1PZJ3NaxgUA3aBgovmuxIxz+QjS+Y4ODpK1MFiSvyjMSLjGYV4qFzFwPn8/Ci0wMjzA4Y1Ik3g==}
 
   '@polka/url@1.0.0-next.28':
     resolution: {integrity: sha512-8LduaNlMZGwdZ6qWrKlfa+2M4gahzFkprZiAt2TF8uS0qQgBizKXpXURqvTJ4WtmupWxaLqjRb2UCTe72mu+Aw==}
@@ -9030,41 +9000,9 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@opentiny/vue-base-select@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-button': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-checkbox': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-filter-box': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-input': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-locale': 2.19.0
-      '@opentiny/vue-option': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-recycle-scroller': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-scrollbar': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-select-dropdown': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-tag': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-theme': 3.19.5
-      '@opentiny/vue-tooltip': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-tree': 2.19.2(vue@2.6.14)
-    transitivePeerDependencies:
-      - vue
-
   '@opentiny/vue-button@2.19.0(vue@2.6.14)':
     dependencies:
       '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-theme': 3.19.5
-      '@opentiny/vue-theme-mobile': 3.19.0
-    transitivePeerDependencies:
-      - vue
-
-  '@opentiny/vue-checkbox@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-directive': 2.19.0(vue@2.6.14)
       '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
       '@opentiny/vue-renderless': 3.19.4
       '@opentiny/vue-theme': 3.19.5
@@ -9221,16 +9159,6 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@opentiny/vue-option@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-directive': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-theme': 3.19.5
-    transitivePeerDependencies:
-      - vue
-
   '@opentiny/vue-popover@2.19.0(vue@2.6.14)':
     dependencies:
       '@opentiny/vue-common': 2.19.0(vue@2.6.14)
@@ -9271,26 +9199,10 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@opentiny/vue-recycle-scroller@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-theme': 3.19.5
-    transitivePeerDependencies:
-      - vue
-
   '@opentiny/vue-renderless@3.19.4':
     dependencies:
       color: 4.2.3
       xss: 1.0.11
-
-  '@opentiny/vue-scrollbar@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-theme': 3.19.5
-    transitivePeerDependencies:
-      - vue
 
   '@opentiny/vue-search@2.19.0(vue@2.6.14)':
     dependencies:
@@ -9305,31 +9217,10 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@opentiny/vue-select-dropdown@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-button': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-search': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-theme': 3.19.5
-    transitivePeerDependencies:
-      - vue
-
   '@opentiny/vue-slider@2.19.0(vue@2.6.14)':
     dependencies:
       '@opentiny/vue-common': 2.19.0(vue@2.6.14)
       '@opentiny/vue-input': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-theme': 3.19.5
-      '@opentiny/vue-theme-mobile': 3.19.0
-    transitivePeerDependencies:
-      - vue
-
-  '@opentiny/vue-switch@2.19.0(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
       '@opentiny/vue-renderless': 3.19.4
       '@opentiny/vue-theme': 3.19.5
       '@opentiny/vue-theme-mobile': 3.19.0
@@ -9354,23 +9245,6 @@ snapshots:
     dependencies:
       '@opentiny/vue-common': 2.19.0(vue@2.6.14)
       '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-theme': 3.19.5
-    transitivePeerDependencies:
-      - vue
-
-  '@opentiny/vue-tree@2.19.2(vue@2.6.14)':
-    dependencies:
-      '@opentiny/vue-button': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-checkbox': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-collapse-transition': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-common': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-directive': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-icon': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-input': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-popover': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-radio': 2.19.0(vue@2.6.14)
-      '@opentiny/vue-renderless': 3.19.4
-      '@opentiny/vue-switch': 2.19.0(vue@2.6.14)
       '@opentiny/vue-theme': 3.19.5
     transitivePeerDependencies:
       - vue

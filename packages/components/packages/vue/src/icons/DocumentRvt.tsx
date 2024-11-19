@@ -24,7 +24,7 @@ export default IconWrapper(
                     width="18"
                     height="18"
                     patternUnits="userSpaceOnUse"
-                    id={props.id + '8e071e3e'}
+                    id={props.id + '1f4fef78'}
                 >
                     <image
                         x="0"
@@ -40,7 +40,7 @@ export default IconWrapper(
                     width="18"
                     height="18"
                     patternUnits="userSpaceOnUse"
-                    id={props.id + '855c02c7'}
+                    id={props.id + 'db12289c'}
                 >
                     <image
                         x="0"
@@ -79,7 +79,7 @@ export default IconWrapper(
                             width="18"
                             height="18"
                             rx="2"
-                            fill={'url(#' + props.id + '8e071e3e' + ')'}
+                            fill={'url(#' + props.id + '1f4fef78' + ')'}
                             fill-opacity="1"
                         />
                     </g>
@@ -90,7 +90,7 @@ export default IconWrapper(
                             width="18"
                             height="18"
                             rx="2"
-                            fill={'url(#' + props.id + '855c02c7' + ')'}
+                            fill={'url(#' + props.id + 'db12289c' + ')'}
                             fill-opacity="1"
                         />
                     </g>

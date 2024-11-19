@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="-0.5060058832168579"
                     x2="0.2416876238590574"
                     y2="1.032976530850613"
-                    id={props.id + '34aedaf0'}
+                    id={props.id + 'bb492fd2'}
                 >
                     <stop
                         offset="0%"
@@ -37,7 +37,7 @@ export default IconWrapper(
                     />
                 </linearGradient>
                 <filter
-                    id={props.id + 'd9e7072b'}
+                    id={props.id + '6eb1a037'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -72,7 +72,7 @@ export default IconWrapper(
                     />
                 </filter>
                 <filter
-                    id={props.id + '809ff016'}
+                    id={props.id + '81e7ccda'}
                     filterUnits="objectBoundingBox"
                     color-interpolation-filters="sRGB"
                     x="0"
@@ -133,12 +133,12 @@ export default IconWrapper(
                 <g>
                     <path
                         d="M3,7.5L3,17.8C3,19.5673,4.43269,21,6.2,21L17.8,21C19.5673,21,21,19.5673,21,17.8L21,7.5C21,6.947715,20.5523,6.5,20,6.5L12,6.5L4,6.5C3.447715,6.5,3,6.947715,3,7.5Z"
-                        fill={'url(#' + props.id + '34aedaf0' + ')'}
+                        fill={'url(#' + props.id + 'bb492fd2' + ')'}
                         fill-opacity="1"
                     />
                 </g>
                 <g
-                    filter={'url(#' + props.id + 'd9e7072b' + ')'} style={{opacity: 0.9599999785423279}}
+                    filter={'url(#' + props.id + '6eb1a037' + ')'} style={{opacity: 0.9599999785423279}}
                 >
                     <path
                         d="M3,6.2L3,8L21,8L21,6.2C21,4.43269,19.5673,3,17.8,3L12,3L6.2,3C4.43269,3,3,4.43269,3,6.2Z"
@@ -147,7 +147,7 @@ export default IconWrapper(
                     />
                 </g>
                 <g
-                    filter={'url(#' + props.id + '809ff016' + ')'} style={{opacity: 0.9599999785423279}}
+                    filter={'url(#' + props.id + '81e7ccda' + ')'} style={{opacity: 0.9599999785423279}}
                 >
                     <path
                         d="M5,11L5,17C5,18.104570000000002,5.89543,19,7,19C8.104569999999999,19,9,18.104570000000002,9,17L9,11C9,10.447715,8.55228,10,8,10L7,10L6,10C5.447715,10,5,10.447715,5,11Z"

@@ -19,7 +19,7 @@ export default IconWrapper(
         >
             <defs>
                 <mask
-                    id={props.id + 'e67ff43d'}
+                    id={props.id + 'c7432df1'}
                     maskUnits="objectBoundingBox" style={{maskType: 'alpha'}}
                 >
                     <g>
@@ -40,7 +40,7 @@ export default IconWrapper(
                     width="16.536584854125977"
                     height="18"
                     patternUnits="userSpaceOnUse"
-                    id={props.id + '8439a882'}
+                    id={props.id + '4d7a7956'}
                 >
                     <image
                         x="-2.5586384033715603e-7"
@@ -54,7 +54,7 @@ export default IconWrapper(
             <g>
                 <g>
                     <g
-                        mask={'url(#' + props.id + 'e67ff43d' + ')'}
+                        mask={'url(#' + props.id + 'c7432df1' + ')'}
                     >
                         <g>
                             <rect
@@ -63,7 +63,7 @@ export default IconWrapper(
                                 width="16.536584854125977"
                                 height="18"
                                 rx="0"
-                                fill={'url(#' + props.id + '8439a882' + ')'}
+                                fill={'url(#' + props.id + '4d7a7956' + ')'}
                                 fill-opacity="1"
                             />
                         </g>

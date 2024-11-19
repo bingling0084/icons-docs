@@ -23,7 +23,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.5"
                     y2="1.9507722854614258"
-                    id={props.id + 'bd9ade01'}
+                    id={props.id + 'fefcdb90'}
                 >
                     <stop
                         offset="0%"
@@ -41,7 +41,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.5"
                     y2="1.1709567308425903"
-                    id={props.id + '07858b23'}
+                    id={props.id + 'bdfe3197'}
                 >
                     <stop
                         offset="0%"
@@ -59,7 +59,7 @@ export default IconWrapper(
                     y1="0"
                     x2="0.6300838589668274"
                     y2="0.39367204904556274"
-                    id={props.id + '0eb97bc3'}
+                    id={props.id + '96aaff3c'}
                 >
                     <stop
                         offset="0%"
@@ -99,7 +99,7 @@ export default IconWrapper(
                 <g>
                     <path
                         d="M2,6L2,10C2,11.104569999999999,2.895431,12,4,12L13.114,12C14.5104,12,15.477,10.605260000000001,14.9867,9.29775L13.4867,5.29775C13.1939,4.517146,12.4477,4,11.614,4L4,4C2.895431,4,2,4.895431,2,6Z"
-                        fill={'url(#' + props.id + 'bd9ade01' + ')'}
+                        fill={'url(#' + props.id + 'fefcdb90' + ')'}
                         fill-opacity="1"
                     />
                 </g>
@@ -110,7 +110,7 @@ export default IconWrapper(
                         width="20"
                         height="13"
                         rx="2"
-                        fill={'url(#' + props.id + '07858b23' + ')'}
+                        fill={'url(#' + props.id + 'bdfe3197' + ')'}
                         fill-opacity="1"
                     />
                     <rect
@@ -119,7 +119,7 @@ export default IconWrapper(
                         width="19.5"
                         height="12.5"
                         rx="1.75"
-                        stroke={'url(#' + props.id + '0eb97bc3' + ')'}
+                        stroke={'url(#' + props.id + '96aaff3c' + ')'}
                         fill-opacity="0"
                         fill="none"
                         stroke-width={props.strokeWidth}

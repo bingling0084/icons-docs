@@ -19,7 +19,7 @@ export default IconWrapper(
         >
             <defs>
                 <clipPath
-                    id={props.id + '77bb6045'}
+                    id={props.id + 'd8a08061'}
                 >
                     <rect
                         x="0"
@@ -31,7 +31,7 @@ export default IconWrapper(
                 </clipPath>
             </defs>
             <g
-                clip-path={'url(#' + props.id + '77bb6045' + ')'}
+                clip-path={'url(#' + props.id + 'd8a08061' + ')'}
             >
                 <g>
                     <path
