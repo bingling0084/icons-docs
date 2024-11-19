@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="24"
+  height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient x1="0.6672566533088684" y1="-0.5060058832168579" x2="0.21402954635129895" y2="1.0219104932427028"
+      id="master_svg0_261_001404">
+      <stop offset="0%" stop-color="#1DD4FF" stop-opacity="1" />
+      <stop offset="94.81717348098755%" stop-color="#0280FF" stop-opacity="1" />
+    </linearGradient>
+    <filter id="master_svg1_261_001487" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB" x="0" y="0"
+      width="1" height="1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="2.0399999618530273" />
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_foregroundBlur" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_foregroundBlur" result="shape" />
+    </filter>
+  </defs>
+  <g>
+    <g style="opacity:0;">
+      <rect x="0" y="0" width="24" height="24" rx="0" fill="#D8D8D8" fill-opacity="1" />
+    </g>
+    <g>
+      <path
+        d="M3,11.2L3,18.8C3,20.5673,4.43269,22,6.2,22L17.8,22C19.5673,22,21,20.5673,21,18.8L21,11.2C21,9.432690000000001,19.5673,8,17.8,8L12,8L6.2,8C4.43269,8,3,9.432690000000001,3,11.2Z"
+        fill="url(#master_svg0_261_001404)" fill-opacity="1" />
+    </g>
+    <g transform="matrix(0,1,-1,0,27.6708984375,2.2412109375)">
+      <path
+        d="M15.70605375,15.7060546875C15.70605375,16.1202646875,15.37026375,16.4560546875,14.95605375,16.4560546875L13.46484375,16.4560546875C13.05062975,16.4560546875,12.71484375,16.1202646875,12.71484375,15.7060546875C12.71484375,15.2918406875,13.05062975,14.9560546875,13.46484375,14.9560546875L14.95605375,14.9560546875C15.37026375,14.9560546875,15.70605375,15.2918406875,15.70605375,15.7060546875"
+        fill="#FFFFFF" fill-opacity="1" />
+    </g>
+    <g style="opacity:0.9599999785423279;" filter="url(#master_svg1_261_001487)">
+      <path
+        d="M16,10L16,8.25Q16,6.47538,14.8114,5.22734Q13.6425,4,12,4Q10.3575,4,9.188600000000001,5.22734Q8,6.47538,8,8.25L8,10C8,10.55229,7.55228,11,7,11C6.447715,11,6,10.55229,6,10L6,8.25Q6.0000000596046,5.6753800000000005,7.74033,3.84803Q9.50036,2,12,2Q14.49964,2.000000119209,16.259700000000002,3.84803Q18,5.6753800000000005,18,8.25L18,10C18,10.55229,17.552300000000002,11,17,11C16.447699999999998,11,16,10.55229,16,10"
+        fill-rule="evenodd" fill="#AED6FF" fill-opacity="1" />
+    </g>
+    <g>
+      <ellipse cx="12" cy="14.5" rx="1.5" ry="1.5" fill="#FFFFFF" fill-opacity="1" />
+    </g>
+  </g>
+</svg>

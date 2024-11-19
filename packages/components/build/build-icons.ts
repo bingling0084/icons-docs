@@ -30,6 +30,7 @@ const ALL_ICON_MAP: Record<string, [string, string]> = {};
 
 const NEW_CSV: string[][] = arr.slice(0, 1);
 
+// 读取source目录下所有svg源文件，放入ALL_ICON_MAP
 fs.readdirSync(path.join(__dirname, '../source')).forEach(dir => {
 
     const dirPath = path.join(__dirname, '../source', dir);
@@ -57,7 +58,6 @@ arr.slice(1).forEach((item: string[]) => {
 });
 
 arr.slice(1).forEach((item: string[], i) => {
-
     const name = item[1];
     let category = item[3];
     const filePath = path.resolve(__dirname, '../source', category, name + '.svg');

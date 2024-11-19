@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pkg:scripts": "cd packages/components && pnpm scripts"
+    "pkg:scripts": "cd packages/components && pnpm scripts",
+    "update": "pnpm run -C packages/components update:icons",
+    "compiler": "pnpm run -C packages/components compiler",
+    "build": "pnpm run -C packages/components build:source",
+    "docs:build": "pnpm run -C examples build",
+    "docs:serve": "pnpm run -C examples serve"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +17,12 @@
   "dependencies": {
     "@icon-monorepo/components": "workspace:^",
     "@icon-monorepo/examples": "workspace:^"
+  },
+  "pnpm": {
+    "overrides": {
+      "vue": "2.6.14",
+      "vue-server-renderer": "2.6.14",
+      "vue-template-compiler": "2.6.14"
+    }
   }
 }

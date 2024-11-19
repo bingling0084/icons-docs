@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <mask
-                id={props.id + '54edd9fa'}
+                id={props.id + '360abd65'}
                 maskUnits="userSpaceOnUse"
                 x="0"
                 y="0"
@@ -31,7 +31,7 @@ export default IconWrapper(
                 />
             </mask>
             <g
-                mask={'url(#' + props.id + '54edd9fa' + ')'}
+                mask={'url(#' + props.id + '360abd65' + ')'}
             >
                 <path
                     d="M6 24.0083V42H42V24"

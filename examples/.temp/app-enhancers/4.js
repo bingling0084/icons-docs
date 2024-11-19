@@ -1,1 +1,0 @@
-export { default } from "D:\\repos\\icon-monporepo\\node_modules\\.pnpm\\@vuepress+plugin-back-to-top@1.9.10\\node_modules\\@vuepress\\plugin-back-to-top\\enhanceAppFile.js"

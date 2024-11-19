@@ -118,7 +118,7 @@ export const BUILD_CONFIG: Omit<IIconToolsOptions, 'type'> = {
     ]
 };
 
-export const SUPPORT_PLATFORMS: ['react', 'vue', 'svg'] = ['react', 'vue', 'svg'];
+export const SUPPORT_PLATFORMS = ['vue'] as any as [IIconToolsOptions['type']];
 
 
 SUPPORT_PLATFORMS.forEach(type => {
@@ -142,5 +142,25 @@ SUPPORT_PLATFORMS.forEach(type => {
         const fp = p.join(__dirname, '../packages', type, 'src', path);
         mkdirp.sync(p.dirname(fp));
         fs.writeFileSync(fp, content, 'utf8');
+    });
+});
+
+const indexFile = p.join(__dirname, '../packages/vue/src/index.ts');
+const mapFile = p.join(__dirname, '../packages/vue/src/map.ts');
+
+// 先删除文件map
+fs.unlink(mapFile, (err) => {
+    if (err && err.code!== 'ENOENT') {
+        console.error('删除文件map失败:', err);
+        return;
+    }
+
+    // 使用copyFile方法复制文件A到文件B
+    fs.copyFile(indexFile, mapFile, (copyErr) => {
+        if (copyErr) {
+            console.error('复制文件index到文件map失败:', copyErr);
+            return;
+        }
+        console.log('文件复制成功，已将文件index复制到文件map');
     });
 });

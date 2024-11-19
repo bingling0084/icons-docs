@@ -1,21 +1,13 @@
 {
-    "name": "@icon-monorepo/vue",
-    "version": "1.0.1",
+    "name": "@bingling00/vue-icons",
+    "version": "1.0.0",
     "description": "Vue Icons for IconPark",
     "main": "lib/index.js",
     "module": "es/index.js",
     "typings": "lib/index.d.ts",
     "keywords": [
         "vue",
-        "icon",
-        "icon pack",
-        "icon park",
-        "IconPark",
-        "svg",
-        "system icons",
-        "component",
-        "components",
-        "design"
+        "icon"
     ],
     "repository": {
         "type": "git",
@@ -39,5 +31,5 @@
     "sideEffects": [
         "styles/**"
     ],
-    "gitHead": "bed2e8d1e451ffc66cbc4def3ba54fcc1f318d9e"
+    "gitHead": "44ce69ce9a73a381bbc0503bea7d615f0a234ec2"
 }

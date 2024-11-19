@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="16"
+  height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="master_svg0_105_016383">
+      <rect x="0" y="0" width="16" height="16" rx="0" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#master_svg0_105_016383)">
+    <g>
+      <path
+        d="M13.73310546875,5.10009765625L7.76537546875,11.319377656250001C7.39465546875,11.70572765625,6.77066546875,11.684907656250001,6.42651546875,11.27472765625L2.93310546875,7.1109976562499995L4.80578546875,7.1109976562499995L7.31077546875,9.21717765625L11.98100546875,5.10009765625L13.73310546875,5.10009765625Z"
+        fill-rule="evenodd" fill="black" fill-opacity="1" />
+    </g>
+  </g>
+</svg>

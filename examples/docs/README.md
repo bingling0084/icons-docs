@@ -1,3 +1,0 @@
-<div>
-  <Container></Container>
-</div>
